@@ -1,0 +1,24 @@
+{
+  "courses": [
+    {
+      "desc": "Tìm hiểu lộ trình và định hướng về lập trình cho developer",
+      "id": 1,
+      "name": "Nhập môn lập trình"
+    },
+    {
+      "id": 2,
+      "name": "Kỹ thuật lập trình",
+      "desc": "Học ngôn ngữ C và xây dựng tư duy lập trình"
+    },
+    {
+      "name": "Học Javascript cơ bản",
+      "id": 3,
+      "desc": "Học cách sử dụng ngôn ngữ Javascript căn bản"
+    },
+    {
+      "name": "Học HTML/CSS",
+      "desc": "Tại đây bạn sẽ học cách sử dụng HTML, CSS để có thể tạo ra một Landing Page",
+      "id": 4
+    }
+  ]
+}
